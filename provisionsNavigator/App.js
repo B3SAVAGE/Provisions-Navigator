@@ -15,7 +15,7 @@ const Stack = createNativeStackNavigator();
 const Timer = 12000;// currently 2 minutes.
 
 //the api key, change if another is used. Probrably should have some sort of encryption method?
-const API_KEY = "AIzaSyB6B5RD_yRJo4-jwtGvuLDJjI8wNrvRp60";
+const API_KEY = "";
 
 
 // Main code
